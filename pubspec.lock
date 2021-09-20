@@ -88,13 +88,6 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
-  flutter_video_cast:
-    dependency: "direct main"
-    description:
-      name: flutter_video_cast
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "1.0.3"
   flutter_web_plugins:
     dependency: transitive
     description: flutter
@@ -175,13 +168,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.1.0"
-  stream_transform:
-    dependency: transitive
-    description:
-      name: stream_transform
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "1.2.0"
   string_scanner:
     dependency: transitive
     description:
